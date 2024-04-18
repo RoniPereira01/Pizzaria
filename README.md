@@ -7,5 +7,5 @@ Nele existem questões referentes a posicionamento de elementos, display grid, f
 Cada sessão do site consta no menu superior e ao clicar em cada parte o úsuario é navegado para a sessão.
 
 E aqui o site responsivo! Para Celulares e tablet.
-![PizzaShop _ Ronilson - Opera 18_04_2024 15_42_23](https://github.com/RoniPereira01/Pizzaria/assets/129990000/996dc5b8-d14a-4b44-8f75-355db6e90781)
-![PizzaShop _ Ronilson - Opera 18_04_2024 15_42_30](https://github.com/RoniPereira01/Pizzaria/assets/129990000/622b56d9-13d0-4da6-8130-e4de3835a524)
+![PizzaShop _ Ronilson - Opera 18_04_2024 15_42_23](https://github.com/RoniPereira01/Pizzaria/assets/129990000/97c778b0-3a35-4ea4-9b75-968c673856a7)
+![PizzaShop _ Ronilson - Opera 18_04_2024 15_42_30](https://github.com/RoniPereira01/Pizzaria/assets/129990000/9a1a8a8e-8649-4d0b-b8f0-667e9510d2b5)
